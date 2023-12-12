@@ -11,6 +11,7 @@
 
 20190954 허진환 (프로그래밍, 보고서 작성)
 
+
 ## Overview
  - Linux(Raspbian) 환경에서의 C언어 프로그래밍을 통한 gcc환경에서의 프로그래밍 역량 향상
  - C언어 프로그래밍을 통한 IoT 장치 제어 능력 향상
@@ -22,6 +23,7 @@
 ## 스마트 금고 동작 방식
 
 ### 소프트웨어 기능 블록도
+
 스마트폰 Application을 통해 스마트 금고(Raspberry Pi, Arduino)와 Bluetooth 통신하여 금고 초기 설정
 1(지문)차/2(password + 난수 입력)차 잠금 보안성 향상
 
@@ -47,6 +49,7 @@
 
 ![user](/img/userdeffunc.png)
 
+
 ## 제작
 
 스마트 금고 외형
@@ -63,9 +66,7 @@
 
 ## Env
 
-### Exec Env
-
-Linux Raspbian
+Linux Raspbian gcc compiler
 
 (Before you exec this program, please check your directory/file permission first ; chmod 777 *)
 Compile Command : gcc -o iot iot.c -lwiringPi -lwiringPiDev -DRaspberryPi
