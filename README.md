@@ -31,14 +31,17 @@
 
 ![init_flowchart](/img/순서도_라즈베리파이_01초기설정.svg)
 
+
 ### 메인함수 순서도
 
 ![main_flowchart1](/img/순서도_라즈베리파이_02메인함수.svg)
 ![main_flowchart2](/img/순서도_라즈베리파이_03메인함수.svg)
 
+
 ### 아두이노 프로그램 순서도
 
 ![arduino_flowchart](/img/순서도_아두이노_프로그램.svg)
+
 
 ## 사용자 정의 함수
 
@@ -46,17 +49,17 @@
 
 ## 제작
 
+스마트 금고 외형
 ![smartvault](/img/smartvault.jpg)
 
-스마트 금고 외형
-
-![hinge](/img/hinge.jpg)
 
 힌지 제작
+![hinge](/img/hinge.jpg)
 
-![opened](/img/opened.jpg)
 
 열렸을 시
+![opened](/img/opened.jpg)
+
 
 ## Env
 
